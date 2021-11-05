@@ -1,0 +1,59 @@
+@charset "UTF-8";
+body {
+  background-color: pink;
+}
+
+h1 {
+  color: red;
+}
+
+h2 {
+  color: blue;
+}
+
+
+h3 {
+  color: blue;
+}
+
+h4 {
+  color: blue;
+}
+
+p {
+  color: blue;
+}
+
+#p_definicion {
+	
+	  color: blue;
+	
+}
+
+.navegador {
+	
+	color: red;
+}
+
+p.marron{
+	color:brown;
+}
+
+p.rojo {
+	color:red;
+}
+
+.left {
+	text-align:left;
+	color:brown;
+}
+
+.center {
+	text-align:center;
+	color:brown;
+}
+
+.right {
+	text-align:right;
+	color:brown;
+}
